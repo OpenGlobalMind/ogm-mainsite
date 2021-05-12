@@ -1,8 +1,3 @@
-    wiki_title = ""
-    author = ""
-    repo = '(repo tbd)'
-    license = '<a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>'
-
 # the title of your wiki
 wiki_title: Open Global Mind
 
