@@ -1,0 +1,16 @@
+    wiki_title = ""
+    author = ""
+    repo = '(repo tbd)'
+    license = '<a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>'
+
+# the title of your wiki
+wiki_title: Open Global Mind
+
+# the author of your wiki
+author: the OGM website team
+
+# the centralized Git repo (an HTML link is good)
+repo: '<a href="https://github.com/OpenGlobalMind/ogm-mainsite">GitHub/OpenGlobalMind/ogm-mainsite</a>'
+
+# the license for the wiki (a Creative Commons HTML link is good)
+license: 'CC-BY (<a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>)'

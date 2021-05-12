@@ -8,7 +8,11 @@
 
 Open Global Mind is a project to build communities and platforms that will help us make sense of the world -- together.
 
-To join the OGM design conversation, [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSfNY_K88JLK0FOSmV5ulYYYdX6_n_HZ9TARZM0RcsisZbrOSQ/viewform?usp=sf_link).
+To join the OGM mailing list, [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSfNY_K88JLK0FOSmV5ulYYYdX6_n_HZ9TARZM0RcsisZbrOSQ/viewform?usp=sf_link). We use the mailing list for announcements to OGM.
+
+You can also join the chat service we use: [CSC Mattermost](https://chat.collectivesensecommons.org). Mattermost is where we have day-to-day conversations, where we find interesting projects, and persistent text chat for our meetings.
+
+Or join our discussion forum here: [OGM Forum](https://forum.openglobalmind.com/).  The forum is great for longer-term discussions.
 
 ##### How might we assemble the puzzle pieces better to make better decisions around the Coronavirus pandemic?
 
