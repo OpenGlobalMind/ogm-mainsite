@@ -14,9 +14,7 @@ You can also join the chat service we use: [CSC Mattermost](https://chat.collect
 
 Or join our discussion forum here: [OGM Forum](https://forum.openglobalmind.com/).  The forum is great for longer-term discussions.
 
-##### How might we assemble the puzzle pieces better to make better decisions around the Coronavirus pandemic?
-
-<iframe width="521" height="293" src="https://www.youtube.com/embed/7NF-Eicaa6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+We have an [[OGM Calendar]], where you can see what conversations you can join, and when and where they are.
 
 ##### Introducing Open Global Mind.
 
