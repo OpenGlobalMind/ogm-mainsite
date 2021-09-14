@@ -1,4 +1,4 @@
-# The View from OGM's Mast
+# The View from the OGM Mast
 
 This is a listing of projects and groups in the OGM mix. This dashboard is powered by [Trove](https://www.catalist.network/about).
 

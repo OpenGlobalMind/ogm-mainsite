@@ -14,7 +14,7 @@ You can also join the chat service we use: [CSC Mattermost](https://chat.collect
 
 Or join our discussion forum here: [OGM Forum](https://forum.openglobalmind.com/).  The forum is great for longer-term discussions.
 
-We have an [[OGM Calendar]], where you can see what conversations you can join, and when and where they are. There's also a directory of [[OGM People]], and [[The View from OGM's Mast]].
+We have an [[OGM Calendar]], where you can see what conversations you can join, and when and where they are. There's also a directory of [[OGM People]], and [[The View from the OGM Mast]].
 
 ##### Introducing Open Global Mind.
 
