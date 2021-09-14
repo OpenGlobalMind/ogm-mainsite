@@ -1,6 +1,7 @@
 # OGM Calendar
 
 There are several weekly OGM calls:
+
 - Build OGM on Tuesdays
 - Generative Commons on Wednesdays
 - A community check-in call on Thursdays
