@@ -7,7 +7,7 @@ c/o CRM
 PO Box 77160   
 Corona, CA  92877   
 
-That should do it. This is a tax-deductible donation, because Lionsberg is a registered 501(c)3 charity.
+That should do it. This is a tax-deductible donation, because Lionsberg is a registered 501(c)3 charity. Their EIN is 84-1827668. 
 
 ## Other means
 Paypal, Stripe and other methods to follow shortly. 
