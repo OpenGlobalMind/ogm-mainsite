@@ -1,4 +1,7 @@
 # Open Global Mind  
+## What's Up Now
+Interested in our [[Current Projects]]? Explore them to discover where you would like to spend your time. Lower on this page you'll see our communication platforms. 
+
 ## Sensemaking Together
 
 -   Are you drowning in the info-flood?
