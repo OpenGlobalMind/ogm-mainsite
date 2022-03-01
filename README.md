@@ -15,8 +15,6 @@ To join the OGM mailing list, [fill out this form](https://docs.google.com/forms
 
 You can also join the chat service we use: [CSC Mattermost](https://chat.collectivesensecommons.org). Mattermost is where we have day-to-day conversations, where we find interesting projects, and persistent text chat for our meetings.
 
-Or join our discussion forum here: [OGM Forum](https://forum.openglobalmind.com/).  The forum is great for longer-term discussions.
-
 We have an [[OGM Calendar]], where you can see what conversations you can join, and when and where they are. There's also a directory of [[OGM People]], and [[The View from the OGM Mast]].
 
 ##### Introducing Open Global Mind.
