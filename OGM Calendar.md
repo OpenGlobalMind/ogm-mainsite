@@ -11,4 +11,4 @@ You are welcome to join any call. Each call has a Channel on our [[Getting on Ma
 
 Also feel free to browse [OGM's recorded calls](https://www.youtube.com/playlist?list=PLreQNsM8LqWA2ib_Yfkde8m30ANi0WtJr) on YouTube.
 
-<iframe src="https://www.catalist.network/group/ogm?tab=Events&embed=yes" width="100%" height="1000px" title="Calendar"></iframe>
+<iframe src="https://www.catalist.network/group/ogm?tab=Events&embed=yes" width="60%" height="1000px" title="Calendar"></iframe>
