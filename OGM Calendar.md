@@ -9,4 +9,4 @@ There are several weekly OGM calls:
 
 You are welcome to join any call. Each call has a Channel on our [[Getting on Mattermost|Mattermost]] server (register a username [here](https://chat.collectivesensecommons.org/)). The standing call time and Zoom link are in the header of each of those Channels. 
 
-Also feel free to browse [OGM's recorded calls](https://www.youtube.com/playlist?list=PLreQNsM8LqWA2ib_Yfkde8m30ANi0WtJr) on YouTube.
+Also feel free to browse [OGM's recorded calls](https://www.youtube.com/playlist?list=PLreQNsM8LqWA2ib_Yfkde8m30ANi0WtJr) on YouTube and [in Jerry's Brain](https://bra.in/6jobWY).
